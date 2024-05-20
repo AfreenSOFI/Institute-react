@@ -16,12 +16,7 @@ const About = () => {
         <p>
           At Recimotech Solutions, we offer a diverse range of programs spanning various disciplines, all designed to meet the evolving needs of the modern world. Our esteemed faculty members, renowned for their expertise and dedication, mentor students to excel both academically and personally.
         </p>
-        {/* <p>
-          Beyond academics, we prioritize hands-on experiences, extracurricular activities, and community engagement, nurturing well-rounded individuals poised for success in their chosen fields. Our state-of-the-art facilities and resources provide students with the tools they need to explore, experiment, and innovate.
-        </p> */}
-        {/* <p>
-Join us at [Institute Name] and embark on a transformative educational journey that will empower you to make a positive impact on society and shape a brighter future for generations to come.</p> */}
-      </div>
+        </div>
     </div>
   )
 }

@@ -14,7 +14,6 @@ const Gallery = () => {
                 <motion.img src={gallery_2} whileHover={{scale:1.1}} alt=""/>
                 <motion.img src={gallery_3} whileHover={{scale:1.1}} alt=""/>
                 <motion.img src={gallery_4} whileHover={{scale:1.1}} alt=""/>
-                <button type='submit' className='secondary-btn'>Explore more</button>
             </div>
         </div>
     )
